@@ -19,7 +19,7 @@ public class Teste {
 		int sabado = DiaSemanaConstantes.SABADO;
 		int domingo = DiaSemanaConstantes.DOMINGO;
 		
-		System.out.println("Teste utilizando constantes no Java:\n");
+		System.out.println("TesteEnum utilizando constantes no Java:\n");
 		
 		imprimeDiaSemana(segunda);
 		imprimeDiaSemana(terca);
@@ -61,7 +61,7 @@ public class Teste {
 	
 	private static void usandoEnum() {
 		
-		System.out.println("Teste utilizando Enum :");
+		System.out.println("TesteEnum utilizando Enum :");
 		DiaSemana segunda = DiaSemana.SEGUNDA;
 		DiaSemana terca = DiaSemana.TERCA;
 		DiaSemana quarta= DiaSemana.QUARTA;
