@@ -1,7 +1,5 @@
 package com.maximiliano.cursojava.aula75_84;
 
-import java.util.Arrays;
-
 public class Aula78 {
 
 	public static void main(String[] args) {
