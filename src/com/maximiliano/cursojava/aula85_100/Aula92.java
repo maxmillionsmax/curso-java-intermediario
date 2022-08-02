@@ -32,7 +32,7 @@ public class Aula92 {
 		System.out.println(agoraSP.getTimeZone());
 		System.out.println(sdf.format(agoraSP.getTime()));
 		
-		agoraSP.add(Calendar.HOUR_OF_DAY, tzSP.getOffset(System.currentTimeMillis())/1000/60/60);
+		agoraSP.add(Calendar.HOUR_OF_DAY, tzSP.getOffset(System.currentTimeMillis())/1000/60/60/60);
 		System.out.println(sdf.format(agoraSP.getTime()));
 		
 	}
