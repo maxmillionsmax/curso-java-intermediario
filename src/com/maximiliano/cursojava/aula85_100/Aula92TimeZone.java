@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.TimeZone;
 
-public class Aula92 {
+public class Aula92TimeZone {
 
 	public static void main(String[] args) {
 

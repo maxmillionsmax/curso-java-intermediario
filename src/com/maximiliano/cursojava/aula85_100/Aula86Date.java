@@ -2,7 +2,7 @@ package com.maximiliano.cursojava.aula85_100;
 
 import java.util.Date;
 
-public class Aula86 {
+public class Aula86Date {
 
 	public static void main(String[] args) {
 

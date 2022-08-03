@@ -6,7 +6,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-public class Aula89 {
+public class Aula89SimpleDateFormat {
 
 	public static void main(String[] args) {
 

@@ -6,7 +6,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
-public class Aula91 {
+public class Aula91DateFormat {
 
 	public static void main(String[] args) {
 

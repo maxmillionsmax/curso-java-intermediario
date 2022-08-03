@@ -10,7 +10,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-public class Aula94 {
+public class Aula94DiferencaEntreDatas {
 
 	public static void main(String[] args) {
 	

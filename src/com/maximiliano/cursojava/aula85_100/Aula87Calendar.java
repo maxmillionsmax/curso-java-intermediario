@@ -2,7 +2,7 @@ package com.maximiliano.cursojava.aula85_100;
 
 import java.util.Calendar;
 
-public class Aula87 {
+public class Aula87Calendar {
 
 	public static void main(String[] args) {
 
